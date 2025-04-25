@@ -1,0 +1,8 @@
+fastapi
+faiss-cpu
+numpy
+ollama
+llama_index
+huggingface-hub
+uvicorn
+pydantic
